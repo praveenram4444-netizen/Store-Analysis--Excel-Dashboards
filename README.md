@@ -1,6 +1,6 @@
 # Ganesh-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
-The Ganesh Store wants to create an annual sales report for 2024. So that, the owner of the ganesh store can understand their customers and grow more sales in 2025 & 2026.
+The Ganesh Store wants to create an annual sales report for 2024. So that, the owner of the ganesh store can understand their customers and grow more sales in upcoming years.
 ## Dataset Used here:
 - <a href="https://github.com/Lalithrajr/Store-Data-Analysis-DashBoard/blob/main/Ganesh%20Store%20Data%20Analysis.xlsx">Ganesh Store Dataset</a>
 ## Questions:
