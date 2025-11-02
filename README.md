@@ -29,3 +29,7 @@ The Ganesh Store wants to create an annual sales report for 2024. So that, the o
 - More than 90% of the products delivered
 ## Final Conclusion:
 To improve the sales of Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention
+
+I appreciate your time in reading through my project. Please feel free to connect with me if you’d like to discuss it further!
+
+LinkedIn: Connect with me professionally @ www.linkedin.com/in/praveen-ram-r-979088190
